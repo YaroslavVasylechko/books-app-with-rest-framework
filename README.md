@@ -1,5 +1,3 @@
-# books-app-with-rest-framework
-<br />
 Authors:
 --------------
 
