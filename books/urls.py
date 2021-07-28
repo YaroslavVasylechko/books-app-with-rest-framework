@@ -20,7 +20,7 @@ from rest_framework.routers import SimpleRouter
 from store.views import BookViewSet, auth
 
 router = SimpleRouter()
-router.register(r'book', BookViewSet)
+router.register(r'books', BookViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
